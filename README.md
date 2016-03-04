@@ -15,11 +15,20 @@ Bottom line for anyone thinking of plagiarizing this code: don't. Just do it you
 
 Here is some info about what tools were used to develop these solutions. Your tools may vary; this is what worked best for me.
 
-OS/kernel: Linux 3.13.0.79-generic x86_64 (Xubuntu 14.04)
-           for GitHub uploads, used standard bash console ("Terminal")
+// OS/kernel:
 
-Java: java version "1.8.0_74"
-      Java(TM) SE Runtime Environment (build 1.8.0_74-b02)
-      Java HotSpot(TM) 64-Bit Server VM (build 25.74-b02, mixed mode)
+Linux 3.13.0.79-generic x86_64 (Xubuntu 14.04)
+
+for GitHub uploads, used standard bash console ("Terminal")
+
+// Java:
+
+java version "1.8.0_74"
+
+Java(TM) SE Runtime Environment (build 1.8.0_74-b02)
+
+Java HotSpot(TM) 64-Bit Server VM (build 25.74-b02, mixed mode)
       
-[I]DE: GEdit (Chapter 1)
+// [I]DE:
+
+GEdit (Chapter 1)
