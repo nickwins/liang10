@@ -7,5 +7,5 @@ This repo exists for my own benefit in order to track my progress and increase m
 2) When they do find it, they WILL know if you plagiarized it and turned it in as your own; and
 3) I do not guarantee the robustness or correctness of any of the code appearing here. There may be a variety of errors, and it almost certainly won't be as efficient as it perhaps could be. This means that even if you do rip this off and turn it in, it still may not get you a decent grade, because the code might really suck.
 
-Bottom line for anyone thinking of plagiarizing this code: Just do it yourself, and do a better job than I have.
+Bottom line for anyone thinking of plagiarizing this code: don't. Just do it yourself, and do a better job than I have.
 
